@@ -1,4 +1,4 @@
-# Categorization of 10 species of flowers.
+# Categorization - 10 species of flowers.
 
 0 - Geranium <br/>
 1 - Rose<br/>
